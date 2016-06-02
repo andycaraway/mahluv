@@ -80,6 +80,9 @@ int main() {
 		else if (input == "tette") {
 			std::cout << "[]=====================[         Minchia si                ]==================[]\n";
 		}
+		else if (input == "aiuto") {
+			std::cout << "[brum,ciuf,chi,puffetta,pancino,michela,io,miao,squitt,gn,tu,dindi,ting,pulcino,vagina,pisello,tette]\n";
+		}
 		else {
 			std::cout << "[]=====================[       Non ho capitooo             ]==================[]\n";
 		}
