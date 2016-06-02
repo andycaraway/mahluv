@@ -82,6 +82,12 @@ int main() {
 		else if (input == "tette") {
 			std::cout << "[]=====================[         Minchia si                ]==================[]\n";
 		}
+		else if (input == "unpochino") {
+			std::cout << "[]=====================[         O tantolinooo             ]==================[]\n";
+		}
+		else if (input == "pum") {
+			std::cout << "[]=====================[         Nuu cadutoo               ]==================[]\n";
+		}
 		else if (input == "aiuto") {
 			std::cout << "[brum,ciuf,chi,puffetta,pancino,michela,io,miao,squitt,gn,tu,dindi,ting,pulcino,vagina,pisello,tette]\n";
 		}
