@@ -30,13 +30,58 @@ int main() {
 		std::cout << "|[ ";
 		if (input == "batta") {
 			std::cout << "[]=====================[          Oghe. Ceuuuu!            ]==================[]\n";
-			more = 0;
+			return 0;
 		}
-		else if (input == "default") {
-			std::cout << "[]=====================[                                   ]==================[]\n";
+		else if (input == "brum") {
+			std::cout << "[]=====================[           Macchininaaaaa          ]==================[]\n";
+		}
+		else if (input == "ciuf") {
+			std::cout << "[]=====================[          Treninoooo               ]==================[]\n";
+		}
+		else if (input == "chi") {
+			std::cout << "[]=====================[           Non te lo dicooo        ]==================[]\n";
+		}
+		else if (input == "puffetta") {
+			std::cout << "[]=====================[         Nuuuuuuu                  ]==================[]\n";
+		}
+		else if (input == "pancino") {
+			std::cout << "[]=====================[         Morbidinoooooooo          ]==================[]\n";
+		}
+		else if (input == "michela" || "io") {
+			std::cout << "[]=====================[        Ciiiiiii! Tantolinissimoo  ]==================[]\n";
+		}
+		else if (input == "miao") {
+			std::cout << "[]=====================[         Micinaaaa                 ]==================[]\n";
+		}
+		else if (input == "squitt") {
+			std::cout << "[]=====================[         Topinoooo                 ]==================[]\n";
+		}
+		else if (input == "gn") {
+			std::cout << "[]=====================[         Daiii lo saiii            ]==================[]\n";
+		}
+		else if (input == "tu") {
+			std::cout << "[]=====================[         Nuuuu, chiii?             ]==================[]\n";
+		}
+		else if (input == "dindi") {
+			std::cout << "[]=====================[         Ting Tin!                 ]==================[]\n";
+		}
+		else if (input == "ting") {
+			std::cout << "[]=====================[         I dindiniii!              ]==================[]\n";
+		}
+		else if (input == "pulcino") {
+			std::cout << "[]=====================[      Nu tu sei la mia pulcina     ]==================[]\n";
+		}
+		else if (input == "vagina") {
+			std::cout << "[]=====================[         Mmmhhhh sozzaa            ]==================[]\n";
+		}
+		else if (input == "pisello") {
+			std::cout << "[]=====================[         Ma nuuuuuuu               ]==================[]\n";
+		}
+		else if (input == "tette") {
+			std::cout << "[]=====================[         Minchia si                ]==================[]\n";
 		}
 		else {
-			std::cout << "[]=====================[            Diolepre               ]==================[]\n";
+			std::cout << "[]=====================[       Non ho capitooo             ]==================[]\n";
 		}
 		std::cin >> input;
 	}
